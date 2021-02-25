@@ -13,3 +13,5 @@ head(mtcars)
 cor(cyl,wt)
 plot(cyl,wt)
 abline()
+
+vfrr
