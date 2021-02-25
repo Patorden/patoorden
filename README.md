@@ -1,6 +1,6 @@
 #### Sesion 7 Porden
 
-´´´R 
+```R 
 
 prieba <- read.cvs("c:/DATA")
 
