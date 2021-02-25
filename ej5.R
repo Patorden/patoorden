@@ -18,7 +18,7 @@ hist(muestra, breaks=50)
 qqnorm(muestra)
 qqline(muestra)
 
-set.seed(123)
+set.seed(123) # sin seed
 A <- rnorm(50, 3, 0.5)
 
 b <- c(26, 33, 65, 28, 34, 55, 25, 44, 50, 36, 26, 37, 43, 62, 35, 38, 45, 32, 28, 34)
